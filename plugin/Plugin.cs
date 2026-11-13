@@ -17,7 +17,7 @@ namespace HungerRpg
     public class HungerRpgPlugin : TerrariaPlugin
     {
         public override string Name { get { return "Hunger RPG"; } }
-        public override string Author { get { return "kobo"; } }
+        public override string Author { get { return "ATGFK update by kobo"; } }
         public override string Description { get { return "Hunger + Levels!"; } }
         public override Version Version { get { return new Version(3, 0, 4); } }
 
